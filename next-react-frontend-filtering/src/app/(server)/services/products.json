@@ -1,0 +1,387 @@
+[
+    {
+        "title": "Milk",
+        "description": "Fresh whole milk.",
+        "price": 1.2,
+        "quantity": 200,
+        "inStock": true
+    },
+    {
+        "title": "Bananas",
+        "description": "Ripe yellow bananas.",
+        "price": 0.5,
+        "quantity": 300,
+        "inStock": true
+    },
+    {
+        "title": "Bread",
+        "description": "Whole wheat bread loaf.",
+        "price": 1.0,
+        "quantity": 150,
+        "inStock": true
+    },
+    {
+        "title": "Eggs",
+        "description": "Large brown eggs, dozen.",
+        "price": 2.0,
+        "quantity": 100,
+        "inStock": true
+    },
+    {
+        "title": "Butter",
+        "description": "Creamy salted butter.",
+        "price": 1.5,
+        "quantity": 80,
+        "inStock": true
+    },
+    {
+        "title": "Chicken Breast",
+        "description": "Fresh boneless chicken breast.",
+        "price": 4.0,
+        "quantity": 50,
+        "inStock": true
+    },
+    {
+        "title": "Tomatoes",
+        "description": "Fresh ripe tomatoes.",
+        "price": 1.3,
+        "quantity": 120,
+        "inStock": true
+    },
+    {
+        "title": "Potatoes",
+        "description": "Fresh russet potatoes.",
+        "price": 0.6,
+        "quantity": 250,
+        "inStock": true
+    },
+    {
+        "title": "Carrots",
+        "description": "Fresh orange carrots.",
+        "price": 0.5,
+        "quantity": 180,
+        "inStock": true
+    },
+    {
+        "title": "Apples",
+        "description": "Crisp red apples.",
+        "price": 0.8,
+        "quantity": 220,
+        "inStock": true
+    },
+    {
+        "title": "Cheese",
+        "description": "Cheddar cheese block.",
+        "price": 3.0,
+        "quantity": 60,
+        "inStock": true
+    },
+    {
+        "title": "Orange Juice",
+        "description": "Freshly squeezed orange juice.",
+        "price": 2.5,
+        "quantity": 90,
+        "inStock": true
+    },
+    {
+        "title": "Yogurt",
+        "description": "Greek yogurt, plain.",
+        "price": 1.0,
+        "quantity": 150,
+        "inStock": true
+    },
+    {
+        "title": "Cucumber",
+        "description": "Fresh green cucumbers.",
+        "price": 0.7,
+        "quantity": 130,
+        "inStock": true
+    },
+    {
+        "title": "Lettuce",
+        "description": "Fresh green lettuce.",
+        "price": 1.0,
+        "quantity": 110,
+        "inStock": true
+    },
+    {
+        "title": "Onions",
+        "description": "Yellow onions.",
+        "price": 0.4,
+        "quantity": 200,
+        "inStock": true
+    },
+    {
+        "title": "Garlic",
+        "description": "Fresh garlic bulbs.",
+        "price": 0.8,
+        "quantity": 90,
+        "inStock": true
+    },
+    {
+        "title": "Pasta",
+        "description": "Italian spaghetti pasta.",
+        "price": 1.2,
+        "quantity": 150,
+        "inStock": true
+    },
+    {
+        "title": "Rice",
+        "description": "White long-grain rice.",
+        "price": 1.5,
+        "quantity": 180,
+        "inStock": true
+    },
+    {
+        "title": "Beef",
+        "description": "Ground beef.",
+        "price": 5.0,
+        "quantity": 70,
+        "inStock": true
+    },
+    {
+        "title": "Pork Chops",
+        "description": "Fresh pork chops.",
+        "price": 4.5,
+        "quantity": 60,
+        "inStock": true
+    },
+    {
+        "title": "Salmon",
+        "description": "Fresh Atlantic salmon.",
+        "price": 8.0,
+        "quantity": 40,
+        "inStock": true
+    },
+    {
+        "title": "Shrimp",
+        "description": "Frozen peeled shrimp.",
+        "price": 7.5,
+        "quantity": 50,
+        "inStock": true
+    },
+    {
+        "title": "Peanut Butter",
+        "description": "Creamy peanut butter.",
+        "price": 2.5,
+        "quantity": 100,
+        "inStock": true
+    },
+    {
+        "title": "Jam",
+        "description": "Strawberry jam.",
+        "price": 2.0,
+        "quantity": 120,
+        "inStock": true
+    },
+    {
+        "title": "Honey",
+        "description": "Raw organic honey.",
+        "price": 3.5,
+        "quantity": 70,
+        "inStock": true
+    },
+    {
+        "title": "Olive Oil",
+        "description": "Extra virgin olive oil.",
+        "price": 6.0,
+        "quantity": 50,
+        "inStock": true
+    },
+    {
+        "title": "Salt",
+        "description": "Table salt.",
+        "price": 0.5,
+        "quantity": 300,
+        "inStock": true
+    },
+    {
+        "title": "Black Pepper",
+        "description": "Ground black pepper.",
+        "price": 1.5,
+        "quantity": 150,
+        "inStock": true
+    },
+    {
+        "title": "Sugar",
+        "description": "White granulated sugar.",
+        "price": 1.2,
+        "quantity": 200,
+        "inStock": true
+    },
+    {
+        "title": "Flour",
+        "description": "All-purpose flour.",
+        "price": 1.0,
+        "quantity": 220,
+        "inStock": true
+    },
+    {
+        "title": "Baking Soda",
+        "description": "Baking soda for baking.",
+        "price": 0.6,
+        "quantity": 150,
+        "inStock": true
+    },
+    {
+        "title": "Baking Powder",
+        "description": "Baking powder for baking.",
+        "price": 0.7,
+        "quantity": 140,
+        "inStock": true
+    },
+    {
+        "title": "Coffee",
+        "description": "Ground coffee.",
+        "price": 4.0,
+        "quantity": 100,
+        "inStock": true
+    },
+    {
+        "title": "Tea",
+        "description": "Black tea bags.",
+        "price": 2.5,
+        "quantity": 130,
+        "inStock": true
+    },
+    {
+        "title": "Chocolate",
+        "description": "Dark chocolate bar.",
+        "price": 2.0,
+        "quantity": 90,
+        "inStock": true
+    },
+    {
+        "title": "Biscuits",
+        "description": "Butter biscuits.",
+        "price": 1.5,
+        "quantity": 120,
+        "inStock": true
+    },
+    {
+        "title": "Cereal",
+        "description": "Whole grain breakfast cereal.",
+        "price": 3.0,
+        "quantity": 110,
+        "inStock": true
+    },
+    {
+        "title": "Granola",
+        "description": "Crunchy granola mix.",
+        "price": 3.5,
+        "quantity": 80,
+        "inStock": true
+    },
+    {
+        "title": "Oats",
+        "description": "Rolled oats.",
+        "price": 1.8,
+        "quantity": 150,
+        "inStock": true
+    },
+    {
+        "title": "Butter Cookies",
+        "description": "Crispy butter cookies.",
+        "price": 2.0,
+        "quantity": 110,
+        "inStock": true
+    },
+    {
+        "title": "Frozen Peas",
+        "description": "Frozen green peas.",
+        "price": 1.5,
+        "quantity": 140,
+        "inStock": true
+    },
+    {
+        "title": "Frozen Corn",
+        "description": "Frozen sweet corn.",
+        "price": 1.5,
+        "quantity": 130,
+        "inStock": true
+    },
+    {
+        "title": "Frozen Spinach",
+        "description": "Frozen chopped spinach.",
+        "price": 1.8,
+        "quantity": 120,
+        "inStock": true
+    },
+    {
+        "title": "Frozen Broccoli",
+        "description": "Frozen broccoli florets.",
+        "price": 2.0,
+        "quantity": 100,
+        "inStock": true
+    },
+    {
+        "title": "Borscht",
+        "description": "Traditional Ukrainian beet soup with cabbage, potatoes, and meat.",
+        "price": 3.5,
+        "quantity": 150,
+        "inStock": true
+    },
+    {
+        "title": "Varenyky",
+        "description": "Dumplings filled with potatoes, cheese, or cherries.",
+        "price": 2.75,
+        "quantity": 300,
+        "inStock": true
+    },
+    {
+        "title": "Holubtsi",
+        "description": "Cabbage rolls stuffed with meat and rice.",
+        "price": 4.25,
+        "quantity": 120,
+        "inStock": true
+    },
+    {
+        "title": "Salo",
+        "description": "Cured pork fat served with garlic and bread.",
+        "price": 6.0,
+        "quantity": 80,
+        "inStock": true
+    },
+    {
+        "title": "Kovbasa",
+        "description": "Smoked Ukrainian sausage made from pork.",
+        "price": 7.5,
+        "quantity": 200,
+        "inStock": true
+    },
+    {
+        "title": "Pampushky",
+        "description": "Small savory or sweet buns, often served with garlic.",
+        "price": 1.5,
+        "quantity": 500,
+        "inStock": true
+    },
+    {
+        "title": "Kutia",
+        "description": "Sweet grain pudding made from wheat, poppy seeds, and honey.",
+        "price": 3.0,
+        "quantity": 250,
+        "inStock": true
+    },
+    {
+        "title": "Deruny",
+        "description": "Crispy potato pancakes served with sour cream.",
+        "price": 2.25,
+        "quantity": 320,
+        "inStock": true
+    },
+    {
+        "title": "Kvas",
+        "description": "Traditional fermented beverage made from bread.",
+        "price": 1.75,
+        "quantity": 400,
+        "inStock": true
+    },
+    {
+        "title": "Nalysnyky",
+        "description": "Thin pancakes rolled with sweet or savory fillings.",
+        "price": 2.5,
+        "quantity": 180,
+        "inStock": true
+    }
+]

@@ -1,0 +1,10 @@
+.modal-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    .modal-header-actions {
+        display: flex;
+        align-items: center;
+    }
+}

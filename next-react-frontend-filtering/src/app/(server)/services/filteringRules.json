@@ -1,0 +1,12 @@
+[
+  {
+    "field": "price",
+    "operator": ">=",
+    "value": 0
+  },
+  {
+    "field": "price",
+    "operator": ">",
+    "value": "2"
+  }
+]

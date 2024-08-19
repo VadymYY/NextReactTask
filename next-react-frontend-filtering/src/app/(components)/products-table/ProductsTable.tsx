@@ -1,5 +1,5 @@
-import React from 'react';
 import { ProductType } from '../../(shared)/types';
+
 import styles from './ProductsTable.module.scss';
 
 type ProductsTableProps = {
@@ -7,6 +7,7 @@ type ProductsTableProps = {
 };
 
 const TABLE_HEADERS = ['TITLE', 'DESCRIPTION', 'PRICE', 'QUANTITY', 'IN STOCK'];
+const TABLE_COLUMNS_VALUE = ['title', 'description', 'price', 'quantity', 'inStock'];
 
 const ProductsTable = ({ productsList }: ProductsTableProps) => {
     return (
@@ -22,11 +23,13 @@ const ProductsTable = ({ productsList }: ProductsTableProps) => {
                 <tbody>
                     {productsList?.map((product) => (
                         <tr key={`product_${product.title}`}>
-                            <td>{product.title}</td>
-                            <td>{product.description}</td>
-                            <td>{product.price}</td>
-                            <td>{product.quantity}</td>
-                            <td>{product.inStock ? '+' : '-'}</td>
+                            {TABLE_COLUMNS_VALUE.map((columnValue, index) => (
+                                // @ts-ignore
+                                <td key={`data_${product[columnValue]}_${index}`}>
+                                    {/*@ts-ignore*/}
+                                    {product[columnValue]}
+                                </td>
+                            ))}
                         </tr>
                     ))}
                 </tbody>

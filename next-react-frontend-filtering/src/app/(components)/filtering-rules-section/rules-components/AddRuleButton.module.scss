@@ -1,0 +1,22 @@
+.add-rule-button {
+    border: none;
+    background: transparent;
+
+    color: #278cff;
+    font-weight: 700;
+
+    border-radius: 6px;
+
+    padding: 4px;
+    display: flex;
+    align-items: center;
+
+    svg {
+        margin-right: 6px;
+        fill: #278cff;
+    }
+}
+
+.add-rule-button:hover {
+    background: #d5f2ff;
+}

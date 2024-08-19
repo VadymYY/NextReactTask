@@ -5,3 +5,9 @@ export type ProductType = {
     quantity: number;
     inStock: boolean;
 };
+
+export type RuleType = {
+    field: 'price' | 'quantity' | 'title' | 'description' | 'inStock';
+    operator: '>' | '<' | '>=' | '<=' | 'equal' | 'not equal';
+    value: string | number;
+};

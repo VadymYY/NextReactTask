@@ -15,6 +15,8 @@ const Home = async ({ searchParams }: { searchParams: Record<string, string> }) 
         })
     ).json();
 
+    // TODO: add multi language function (i18next)
+
     return (
         <>
             <FilteringRulesSection rulesConfiguration={data.rulesConfiguration} />

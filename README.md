@@ -1,7 +1,8 @@
 # NextReactTask
 
 Author: Vadym Yefimchuk
-Status: project IN PROGRESS
+
+Status: project **IN PROGRESS** 
 
 ## Description
 This is a project created using Next.js and React. It demonstrates the basics of data filtering on the frontend.
